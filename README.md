@@ -8,3 +8,5 @@ git add <file> -- Adds a file
 git commit -- Adds all files to local repo
 git push -- Adds all files to SERVER repo
 git pull -- Pulls all changes from Server repo
+
+added some changes here 
